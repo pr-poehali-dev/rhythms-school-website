@@ -13,7 +13,7 @@ export default function Index() {
           <div className="flex items-center space-x-3">
             <div className="text-secondary text-3xl">🏔️</div>
             <div>
-              <h1 className="text-2xl font-bold text-primary">Ритмы Гор</h1>
+              <h1 className="text-2xl font-bold text-primary"></h1>
               <p className="text-sm text-muted-foreground">Школа лезгинки и кавказских барабанов</p>
             </div>
           </div>
