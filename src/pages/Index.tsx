@@ -11,7 +11,7 @@ export default function Index() {
       <header className="border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-3">
-            <div className="text-secondary text-3xl">🏔️</div>
+            <div className="text-secondary text-3xl"></div>
             <div>
               <h1 className="text-2xl font-bold text-primary"></h1>
               <p className="text-sm text-muted-foreground"></p>
