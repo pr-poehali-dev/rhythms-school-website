@@ -18,7 +18,7 @@ export default function Index() {
             />
             <div>
               <h1 className="text-2xl font-bold text-primary"></h1>
-              <p className="text-sm text-muted-foreground">Школа лезгинки и кавказских барабанов</p>
+              <p className="text-sm text-muted-foreground"></p>
             </div>
           </div>
           <nav className="hidden md:flex items-center space-x-6">
