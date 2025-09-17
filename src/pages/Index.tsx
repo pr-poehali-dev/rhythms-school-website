@@ -14,7 +14,7 @@ export default function Index() {
             <img 
               src="https://cdn.poehali.dev/files/ece70d9e-0d10-401c-b37c-f2ef25ecab07.png" 
               alt="Логотип Ритмы Гор" 
-              className="h-12 w-auto"
+              className="h-16 w-auto"
             />
             <div>
               <h1 className="text-2xl font-bold text-primary"></h1>
